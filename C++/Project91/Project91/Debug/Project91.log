@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project91\project91\source.cpp(160): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project91.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project91\Debug\Project91.exe
+  Project91.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project91\Debug\Project91.pdb (Partial PDB)

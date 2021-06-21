@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project52\project52\source.cpp(6): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\project52\project52\source.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\project52\project52\source.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\project52\project52\source.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project52.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project52\Debug\Project52.exe
+  Project52.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project52\Debug\Project52.pdb (Partial PDB)

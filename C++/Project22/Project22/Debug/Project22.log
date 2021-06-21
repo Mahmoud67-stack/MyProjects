@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project22\project22\source.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project22.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project22\Debug\Project22.exe
+  Project22.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project22\Debug\Project22.pdb (Partial PDB)

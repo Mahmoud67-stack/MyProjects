@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project90\project90\source.cpp(73): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source1.obj : error LNK2005: _main already defined in Source.obj
+c:\users\hp\documents\visual studio 2015\Projects\Project90\Debug\Project90.exe : fatal error LNK1169: one or more multiply defined symbols found

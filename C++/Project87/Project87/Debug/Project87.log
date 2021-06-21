@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project87\project87\source.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project87\project87\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project87\project87\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project87\project87\source.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  Project87.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project87\Debug\Project87.exe
+  Project87.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project87\Debug\Project87.pdb (Partial PDB)

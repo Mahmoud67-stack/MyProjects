@@ -1,0 +1,107 @@
+#include <iostream>
+#include <time.h>
+using namespace std;
+
+int ** removeColumn(int ** in_arr, int R, int C, int& newR)
+{
+
+	bool*rowsToDelete = new bool[R];
+	int count = 0, sum = 0;
+	for (int i = 0; i < R; i++)
+	{
+		for (int j = 0; j < C; j++)
+			sum += in_arr[i][j];
+		if (sum == 0)
+		{
+			rowsToDelete[i] = true;
+			count++;
+		}
+	}
+	newR = R - count;
+	for (int i = 0; i < count; i++)
+		cout << rowsToDelete[i] << " ";
+	cout << endl;
+	int **arr_out = new int*[newR];
+	for (int i = 0; i < R - count; i++)
+		arr_out[i] = new int[C];
+	newR = 0;
+	for (int i = 0; i < R; i++)
+	{
+		for (int j = 0; j < C; j++)
+		{
+			if (rowsToDelete[j]!=true)
+			{
+				in_arr[i][j] = arr_out[newR][j];
+				newR++;
+			}
+		}
+	}
+		/*1. create a new bool array with R elements
+		bool * rowsToDelete = ...
+		2. loop through the in_arr and
+		a. if a row has all zero values then set rowsToDelete[? ] to true
+		b.keep "count" of number of rows to delete
+
+		3. print out the content of the rowsToDelete array
+
+		4. create a new out_arr that has the same number of columns but fewer number of rows.
+		The new number of rows is = R - count
+
+		5. copy all none zeros rows from in_arr to out_arr
+
+		6. delete in_arr
+		7. return out_arr*/
+	for (int i = 0; i < R; i++)
+	{
+		delete[]in_arr[i];
+	}
+	delete[]in_arr;
+	return arr_out;
+}
+
+
+void main()
+{
+	int R = 7, C = 3;
+	int ** arr;
+
+	/*1.	create arr with RxC*/
+		arr = new int*[R];
+	for (int i = 0; i < R; i++)
+		arr[i] = new int[C];
+		//fill in the array using this code
+		srand(time(NULL)); // to generate diff random numbers
+	cout << "\nInput array" << R << "X" << C << " :\n";
+	for (int r = 0; r < R; r++) 
+	{
+		cout << "\n";
+		for (int c = 0; c < C; c++) {
+			arr[r][c] = (rand() % 2)&(rand() % 2);
+			cout << arr[r][c] << " ";
+		}
+	}
+	/*2.	call removeColumn and store result in out_arr
+		3.	print out_arr
+		4.	delete out_arr*/
+	int newR=0;
+	int **out_arr1= removeColumn(arr, R, C, newR);
+	int **out_arr = new int*[newR];
+	for (int i = 0; i < newR; i++)
+		out_arr[i] = new int[C];
+	for (int i = 0; i < newR; i++)
+	{
+		for (int j = 0; j < C; j++)
+		{
+			out_arr[i][j] = removeColumn(arr, R, C, newR)[i][j];
+			cout << "The new arry is: " << out_arr[i][j];
+		}
+	}
+	for (int i = 0; i < newR; i++)
+	{
+		delete[]out_arr[i];
+	}
+	delete[]out_arr;
+
+	system("pause");
+
+}

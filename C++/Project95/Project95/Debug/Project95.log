@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project95\project95\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+  Project95.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project95\Debug\Project95.exe
+  Project95.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project95\Debug\Project95.pdb (Partial PDB)

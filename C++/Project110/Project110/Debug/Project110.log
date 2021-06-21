@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project110\project110\source.cpp(29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\documents\visual studio 2015\projects\project110\project110\source.cpp(24): warning C4101: 'base_salary': unreferenced local variable
+  Project110.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project110\Debug\Project110.exe
+  Project110.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project110\Debug\Project110.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project41\project41\source.cpp(17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Project41.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project41\Debug\Project41.exe
+  Project41.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project41\Debug\Project41.pdb (Partial PDB)

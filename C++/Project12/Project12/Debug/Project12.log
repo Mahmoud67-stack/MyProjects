@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project12\project12\source.cpp(9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project12.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project12\Debug\Project12.exe
+  Project12.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project12\Debug\Project12.pdb (Partial PDB)

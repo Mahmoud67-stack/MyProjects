@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(68): warning C4101: 'n': unreferenced local variable
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project97\project97\source.cpp(117): warning C4018: '<': signed/unsigned mismatch
+  Project97.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project97\Debug\Project97.exe
+  Project97.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project97\Debug\Project97.pdb (Partial PDB)

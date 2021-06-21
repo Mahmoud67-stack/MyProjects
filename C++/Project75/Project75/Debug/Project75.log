@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project75\project75\source.cpp(5): warning C4101: 'u': unreferenced local variable
+  Project75.vcxproj -> C:\Users\hp\Documents\Visual Studio 2015\Projects\Project75\Debug\Project75.exe
+  Project75.vcxproj -> C:\Users\hp\Documents\Visual Studio 2015\Projects\Project75\Debug\Project75.pdb (Partial PDB)

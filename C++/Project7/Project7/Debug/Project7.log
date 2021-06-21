@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project7\project7\source.cpp(3): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hp\documents\visual studio 2015\projects\project7\project7\source.cpp(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project7.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project7\Debug\Project7.exe
+  Project7.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project7\Debug\Project7.pdb (Partial PDB)

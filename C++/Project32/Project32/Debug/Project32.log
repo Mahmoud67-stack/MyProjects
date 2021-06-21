@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project32\project32\source.cpp(15): error C2296: '%': illegal, left operand has type 'double'

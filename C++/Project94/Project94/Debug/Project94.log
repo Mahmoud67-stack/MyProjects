@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project94\project94\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project94\project94\source.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project94\project94\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project94\project94\source.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project94\project94\source.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project94\project94\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\project94\project94\source.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  Project94.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project94\Debug\Project94.exe
+  Project94.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project94\Debug\Project94.pdb (Partial PDB)

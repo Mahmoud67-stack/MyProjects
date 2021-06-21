@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project15\project15\source.cpp(5): warning C4101: 'average': unreferenced local variable
+LINK : fatal error LNK1168: cannot open c:\users\hp\documents\visual studio 2015\Projects\Project15\Debug\Project15.exe for writing

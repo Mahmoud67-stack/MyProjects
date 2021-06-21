@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project46\project46\source.cpp(3): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hp\documents\visual studio 2015\projects\project46\project46\source.cpp(10): warning C4101: 'y': unreferenced local variable
+  Project46.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project46\Debug\Project46.exe
+  Project46.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project46\Debug\Project46.pdb (Partial PDB)

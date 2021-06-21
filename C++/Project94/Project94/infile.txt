@@ -1,0 +1,28 @@
+Ahmad Zaki
+b000123
+2
+CMP120
+Programming I
+CMP220
+Programming II
+Altaf Yaseen
+b000123
+1
+WRI101
+Writing I
+Yusuf Nabeel
+b000321
+2
+NGN111
+Statistics 
+CMP354
+Mobile App Development
+Sowsan Jawad
+g000321
+3
+CMP235
+Ethics for IT
+CMP310
+Operating systems
+COE410
+Advanced Hardware

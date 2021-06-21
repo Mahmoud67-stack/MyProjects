@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hp\documents\visual studio 2015\projects\project98\project98\source.cpp(82): warning C4101: 'tmpix': unreferenced local variable
+  Project98.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project98\Debug\Project98.exe
+  Project98.vcxproj -> c:\users\hp\documents\visual studio 2015\Projects\Project98\Debug\Project98.pdb (Partial PDB)

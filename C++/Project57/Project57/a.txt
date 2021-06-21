@@ -1,0 +1,6 @@
+Some time ago, I sent out a request for documented reports on "famous bugs",  promising to summarize the results for all who contributed.  
+This is the promised summary.  
+	I judge the effort as a failure.  People encounter bugs and fix bugs 
+and talk about bugs, but they rarely document bugs.  Those responding 
+to my request were well meaning and helpful, but I was left feeling 
+a little like my hair was being done by a gossip-laden ex-hacker.
