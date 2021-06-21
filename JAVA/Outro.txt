@@ -1,0 +1,7 @@
+Hi there how is everything going so far
+I do not want to be mean or anything but
+who told michel that we are going out
+Aliasing. An assignment statement with a reference type creates a second copy of the reference.
+The assignment statement does not create a new object, just another reference to an existing object.
+This situation is known as aliasing: both variables refer to the same object.
+As an example, consider the following code fragment:
