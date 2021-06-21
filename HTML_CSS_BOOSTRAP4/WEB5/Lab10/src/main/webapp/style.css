@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+form {
+	background-color: #F5F5F5;
+	/* color code can be different */
+}
+
+label {
+	font-weight: bold;
+}
+
+footer {
+	
+	position: fixed;
+	text-align: right;
+	bottom: 0;
+	width: 100%;
+}
+
+.nav-link {
+	color: black;
+}
+
+h2 {
+	color: darkred;
+}

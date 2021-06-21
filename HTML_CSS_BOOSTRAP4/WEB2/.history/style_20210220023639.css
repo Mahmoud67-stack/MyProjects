@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    color:red;
+    background-size: cover;
+}
+h1
+{
+    color:blue;
+    font-size:125%;
+}

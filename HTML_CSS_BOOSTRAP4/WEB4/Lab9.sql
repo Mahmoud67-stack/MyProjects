@@ -1,0 +1,1 @@
+SELECT * FROM lab_9_schema.lab_9_table;
